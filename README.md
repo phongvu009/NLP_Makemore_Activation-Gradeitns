@@ -5,7 +5,7 @@
 
 ## weight initialization Around 0
 
-### Before:
+### Before Applying the technique:
 
 - Result before Applying the activation function
 ```
@@ -25,4 +25,4 @@ It will lead to squashing the result highly in -1 and 1
 <img width="592" alt="Screenshot 2023-07-17 at 3 10 05 PM" src="https://github.com/phongvu009/NLP_Makemore_Activation-Gradeitns/assets/54299527/aa447795-9824-46d4-8c9b-42bd33a9b898">
 
 
-### After:
+### After Applying the technique:
