@@ -1,4 +1,4 @@
-# NLP_Makemore: Activation, Gradeitns & BatchNorm
+# NLP_Makemore: Activation, Gradients & BatchNorm
 
 ## Overview:
 - Model has only 1 hidden layer: inputs -> hidden layer -> output
